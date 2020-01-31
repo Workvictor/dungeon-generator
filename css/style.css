@@ -1,0 +1,14 @@
+canvas {
+	position:           absolute;
+	z-index:            1;
+	left:               0;
+	right:              0;
+	margin:             0 auto;
+	background-color:   #000000;
+	-webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow:    0 2px 5px rgba(0, 0, 0, 0.4);
+	box-shadow:         0 2px 5px rgba(0, 0, 0, 0.4);
+}
+body {
+	background-color: #313131;
+}
